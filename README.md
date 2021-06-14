@@ -17,7 +17,7 @@ preferred by the farmers.
 The analysis is provided in report.pdf
 
 ### References for datasets: 
-1. https://www.kaggle.com/abhiseklewan/crop-production-statistics-from-1997-in-india
+1. https://www.kaggle.com/crop-production-statistics-from-1997-in-india
 2. https://data.gov.in/search/site?query=crops
 4. https://www.indiastat.com/agriculture-data/2/cost-of-cultivation-production/32320/stats.aspx
 
